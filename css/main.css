@@ -6,7 +6,9 @@ body {
   padding: 30px 20px;
   text-align: center;
 }
-
+body {
+  background-color: #01859B;
+}
 h1 {
   padding: 20px 0px 10px 0px;
 }
